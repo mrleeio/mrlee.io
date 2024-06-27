@@ -2,3 +2,24 @@ baseURL: https://mrlee.io
 languageCode: en-us
 title: mrlee.io
 theme: PaperMod
+
+params:
+  homeInfoParams:
+    Title: "Michael Lee"
+    Content: |+
+      Software Engineering Leader | [CISSP](https://www.credly.com/badges/46e45ead-2158-4641-ab2c-9880d700b24a/public_url) | [CISM](https://www.credly.com/badges/2a3f5b7b-88d2-4040-bbc7-c31b64384107/public_url)
+
+      Director of Software Engineering @ [Gen II Fund Services](https://gen2fund.com)
+
+      Vancouver, BC, Canada
+
+      Hello, my name is Michael. I hold multiple cybersecurity certifications and primarily write about the intersection of software engineering, security, and leadership. In my free time, I enjoy listening to [new retro music](https://www.youtube.com/watch?v=URma_gu1aNE), walking my dog, and cycling.
+
+      You can contact me at [michael@mrlee.io](mailto:michael@mrlee.io).
+    socialIcons:
+    - name: x
+      url: "https://x.com/"
+    - name: stackoverflow
+      url: "https://stackoverflow.com"
+    - name: github
+      url: "https://github.com/"
